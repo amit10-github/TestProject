@@ -52,5 +52,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void testMethod(){
         int i = 2;
+        int ii = 3;
+        int iii = 4;
     }
 }
